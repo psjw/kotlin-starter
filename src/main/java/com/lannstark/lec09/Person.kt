@@ -16,6 +16,7 @@ fun main(){
     val person1 = Person("최태현")
 
     Student() //기본생성자는 자동으로 만들어줌
+    println("###")
     Person()
 }
 
